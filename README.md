@@ -1,4 +1,4 @@
-# 🚀 Cognifyz Web Development Internship Projects
+# Cognifyz Web Development Internship Projects
 **By Ahzam Hamza Karat**
 
 Welcome to my project showcase for the **Cognifyz Technologies Web Development Internship**.  
@@ -6,18 +6,18 @@ This internship gave me the opportunity to explore and build frontend web projec
 
 ---
 
-## 📌 Internship Summary
+## Internship Summary
 
-- 👨‍💻 **Internship Role**: Web Developer Intern  
-- 🕒 **Duration**: 4 Weeks  
-- 🌍 **Mode**: Remote  
-- 🛠️ **Skills Used**: HTML, CSS, JavaScript, Bootstrap, Bulma, Responsive Design
+- **Internship Role**: Web Developer Intern  
+- **Duration**: 4 Weeks  
+- **Mode**: Remote  
+- **Skills Used**: HTML, CSS, JavaScript, Bootstrap, Bulma, Responsive Design
 
 ---
 
-## ✅ Task List by Levels
+## Task List by Levels
 
-### 🟦 Level 1
+### Level 1
 - **Task 1**: Created a simple webpage with:
   - A header and navigation bar
   - An image
@@ -32,7 +32,7 @@ This internship gave me the opportunity to explore and build frontend web projec
 
 ---
 
-### 🟨 Level 2
+### Level 2
 - **Task 1**: Used **Bulma** and **Bootstrap** to create:
   - A responsive card layout
   - A grid system using Bootstrap  
@@ -44,7 +44,7 @@ This internship gave me the opportunity to explore and build frontend web projec
 
 ---
 
-### 🟥 Level 3
+### Level 3
 - **Task 1**: Developed a pure HTML & CSS project:
   - Clickable image gallery
   - Auto-playing slideshow  
@@ -58,7 +58,7 @@ This internship gave me the opportunity to explore and build frontend web projec
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 Cognifyz-Internship/
@@ -76,7 +76,7 @@ Cognifyz-Internship/
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 - Writing clean and semantic HTML  
 - Designing with modern CSS techniques  
